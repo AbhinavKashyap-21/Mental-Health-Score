@@ -102,7 +102,7 @@ def predict(data: StudentData):
         'Most_Used_Platform': data.most_used_platform,
         'Purpose_Of_Use': data.purpose_of_use,
         'Avg_Daily_Usage_Hours': data.avg_daily_usage_hours,
-        'DailyUnlocks': data.daily_unlocks,
+        'Daily_Unlocks': data.daily_unlocks,
         'Study_Hours': data.study_hours,
         'Physical_Activity_Hours': data.physical_activity_hours,
         'Sleep_Hours_Per_Night': data.sleep_hours_per_night,
